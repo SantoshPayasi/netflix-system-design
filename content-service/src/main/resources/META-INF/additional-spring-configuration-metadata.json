@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "server.management.endpoints.web.exposure.include",
+  "type": "java.lang.String",
+  "description": "A description for 'server.management.endpoints.web.exposure.include'"
+}]}
